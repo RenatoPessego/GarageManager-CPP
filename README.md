@@ -27,7 +27,7 @@ To compile and run the project, ensure you have CMake installed on your local en
 
 ```bash
 # Clone the repository
-git clone https://github.com/RenatoPessego/GarageManager.git
+git clone https://github.com/RenatoPessego/GarageManager-CPP.git
 cd GarageManager
 
 # Generate build files and compile
